@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\css\\styles.css.map",
+      "PackagePath": "staticwebassets\\css\\styles.css.map"
+    },
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\css\\styles.module.scss",
+      "PackagePath": "staticwebassets\\css\\styles.module.scss"
+    },
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\css\\styles.scss",
+      "PackagePath": "staticwebassets\\css\\styles.scss"
+    },
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Programação\\ProjetoDTI\\LembreteApp\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LembreteApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LembreteApp.props",
+      "PackagePath": "build\\LembreteApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LembreteApp.props",
+      "PackagePath": "buildMultiTargeting\\LembreteApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LembreteApp.props",
+      "PackagePath": "buildTransitive\\LembreteApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

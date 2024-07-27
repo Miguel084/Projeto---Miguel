@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 100px;
+  height: 100vh;
+  background-color: #f0f0f0;
+  padding-top: 50px;
+}
+
+.card {
+  background: rgb(51, 180, 196);
+  padding: 20px;
+  border: 1px solid rgb(64 64 64);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgb(64 64 64);
+  color: white;
+  font-family: "Poppins", sans-serif;
+  width: 400px;
+}
+
+#creation-section {
+  height: auto;
+}
+
+#lembreteList {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgb(64 64 64);
+  margin-bottom: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  font-weight: 600;
+  text-shadow: 1px 1px 2px rgb(64 64 64);
+}
+
+input {
+  background: white;
+  color: rgb(64 64 64);
+  border: 1px solid #ddd;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+}
+
+input[type="date"] {
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+
+input:focus {
+  outline: none;
+  border-color: rgb(51, 180, 196);
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-align: center;
+  border: 1px solid white;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  color: rgb(64 64 64);
+  margin-top: 1rem;
+  border-radius: 100px;
+}
+
+button:hover {
+  color: rgb(51, 180, 196);
+  transition: 0.2s;
+  transition-property: all;
+  border: 1px solid rgb(51, 180, 196);
+}
+
+.date-group {
+  margin-top: 20px;
+  padding: 10px;
+  background: transparent;
+  color: rgb(64 64 64);
+  border-radius: 5px;
+}
+
+.date-group h2 {
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+  text-align: center;
+  font-weight: 700;
+  text-shadow: 2px 2px 4px rgb(64 64 64);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lembrete {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid rgb(51, 180, 196);
+  border-radius: 5px;
+  margin-top: 10px;
+  background: white;
+  color: rgb(64 64 64);
+  font-family: "Poppins", sans-serif;
+}
+
+.delete {
+  cursor: pointer;
+  color: red;
+}

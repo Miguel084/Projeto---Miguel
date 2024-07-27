@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lembrete App</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/app.js" defer></script>
+</head>
+
+<body>
+  <section id="creation-section" class="card">
+    <h1>Lembrete App</h1>
+    <form id="lembreteForm">
+      <label for="nome">Nome do Lembrete:</label>
+      <input class="nome" type="text" id="nome" name="nome" required>
+      <label for="data">Data do Lembrete:</label>
+      <input class="data" type="date" id="data" name="data" required>
+      <button type="submit">Criar</button>
+    </form>
+  </section>
+  <section id="lembreteList" class="card">
+    <h1>Lista de Lembretes</h1>
+    <div id="lembretes"></div>
+  </section>
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\appsettings.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.staticwebassets.runtime.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.exe
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.deps.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.runtimeconfig.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\LembreteApp.pdb
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\DnsClient.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\SharpCompress.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Snappier.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\ZstdSharp.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.csproj.AssemblyReference.cache
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.AssemblyInfoInputs.cache
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.AssemblyInfo.cs
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.csproj.CoreCompileInputs.cache
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.sourcelink.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.LembreteApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.build.LembreteApp.props
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LembreteApp.props
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LembreteApp.props
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\scopedcss\bundle\LembreteApp.styles.css
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\Lembrete.132C07C6.Up2Date
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\refint\LembreteApp.dll
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.pdb
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\LembreteApp.genruntimeconfig.cache
+D:\Programação\ProjetoDTI - FUNCIONANDO\LembreteApp\obj\Debug\net8.0\ref\LembreteApp.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\package-lock.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\package.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\appsettings.Development.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\appsettings.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.staticwebassets.runtime.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.exe
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.deps.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.runtimeconfig.json
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\LembreteApp.pdb
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\DnsClient.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\DotNetEnv.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\SharpCompress.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Snappier.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Sprache.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\ZstdSharp.dll
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Programação\ProjetoDTI\LembreteApp\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.csproj.AssemblyReference.cache
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.AssemblyInfoInputs.cache
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.AssemblyInfo.cs
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.csproj.CoreCompileInputs.cache
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.sourcelink.json
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.LembreteApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.build.LembreteApp.props
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LembreteApp.props
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LembreteApp.props
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\scopedcss\bundle\LembreteApp.styles.css
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\Lembrete.132C07C6.Up2Date
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.dll
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\refint\LembreteApp.dll
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.pdb
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\LembreteApp.genruntimeconfig.cache
+D:\Programação\ProjetoDTI\LembreteApp\obj\Debug\net8.0\ref\LembreteApp.dll
